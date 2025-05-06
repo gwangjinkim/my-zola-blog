@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://gwangjinkim.github.io/your-repo-name/</loc>
+        <loc>https://gwangjinkim.github.io/my-zola-blog/</loc>
     </url>
     <url>
-        <loc>https://gwangjinkim.github.io/your-repo-name/blog/my-first-post/</loc>
+        <loc>https://gwangjinkim.github.io/my-zola-blog/blog/my-first-post/</loc>
         <lastmod>2025-05-05</lastmod>
     </url>
     <url>
-        <loc>https://gwangjinkim.github.io/your-repo-name/categories/</loc>
+        <loc>https://gwangjinkim.github.io/my-zola-blog/categories/</loc>
     </url>
     <url>
-        <loc>https://gwangjinkim.github.io/your-repo-name/tags/</loc>
+        <loc>https://gwangjinkim.github.io/my-zola-blog/tags/</loc>
     </url>
 </urlset>

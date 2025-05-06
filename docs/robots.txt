@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://gwangjinkim.github.io/your-repo-name/sitemap.xml
+Sitemap: https://gwangjinkim.github.io/my-zola-blog/sitemap.xml
