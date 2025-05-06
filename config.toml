@@ -1,19 +1,25 @@
-# The URL the site will be built for
-base_url = "https://www.gwangjinkim.github.io"
-
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
-
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
-
-
-[extra]
-# Put all your custom variables here
+base_url = "https://gwangjinkim.github.io/your-repo-name/"
+title = "My GPT Blog Empire"
+description = "A lean, static, GPT-powered blog built with Zola and Cloudflare Workers."
 theme = "even"
 output_dir = "docs"
+
+compile_sass = true
+build_search_index = true
+generate_feed = true
+minify_html = true
+default_language = "en"
+
+taxonomies = [
+  { name = "tags", rss = true },
+  { name = "categories" }
+]
+
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
+
+[extra]
+author = "Gwang-Jin Kim"
+copyright = "© 2025 Gwang-Jin Kim"
+google_analytics = ""

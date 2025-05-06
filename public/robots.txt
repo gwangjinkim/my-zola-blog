@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://gwangjinkim.ovh/sitemap.xml
+Sitemap: https://www.gwangjinkim.github.io/sitemap.xml
