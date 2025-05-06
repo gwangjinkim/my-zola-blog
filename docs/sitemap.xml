@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://gwangjinkim.github.io/your-repo-name/</loc>
+    </url>
+    <url>
+        <loc>https://gwangjinkim.github.io/your-repo-name/blog/my-first-post/</loc>
+        <lastmod>2025-05-05</lastmod>
+    </url>
+    <url>
+        <loc>https://gwangjinkim.github.io/your-repo-name/categories/</loc>
+    </url>
+    <url>
+        <loc>https://gwangjinkim.github.io/your-repo-name/tags/</loc>
+    </url>
+</urlset>
