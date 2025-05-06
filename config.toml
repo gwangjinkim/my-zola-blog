@@ -1,4 +1,4 @@
-base_url = "https://gwangjinkim.github.io/your-repo-name/"
+base_url = "https://gwangjinkim.github.io/my-zola-blog/"
 title = "My GPT Blog Empire"
 description = "A lean, static, GPT-powered blog built with Zola and Cloudflare Workers."
 theme = "even"
